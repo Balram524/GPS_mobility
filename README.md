@@ -31,3 +31,31 @@ Identify start & end points of trips using movement pings.
 Enhance trip analysis by linking movements to specific buildings or areas.
 
 Evaluate accuracy and patterns using appropriate mobility metrics.
+
+
+## Outcomes 
+
+### Data before Processing 
+![image](https://github.com/user-attachments/assets/4ccc6fee-220f-4fe9-8c7c-83095fbeb2cf)
+
+### Visualization of data
+![image](https://github.com/user-attachments/assets/a05f6dd4-1b9e-4ec8-8733-aabd525764b1)
+
+
+### Paticular Device Analysis
+![image](https://github.com/user-attachments/assets/7b0eb34f-ad9b-4f85-8364-90b2cd91c594)
+
+### Trip and dwell detection
+Detected 1225 trips and 1225 dwells.
+
+### google open building dataset for ROI
+![image](https://github.com/user-attachments/assets/6b91a0c2-18ad-4ee4-9c86-74fd29ed45c2)
+### Load and Process GPS Data
+![image](https://github.com/user-attachments/assets/56f2b597-3b70-48c5-b0a0-30f4c4788802)
+
+### Synthesize trips
+![image](https://github.com/user-attachments/assets/77a47363-1dd0-422c-b316-36fe37bd0834)
+
+
+
+
