@@ -1,4 +1,6 @@
 # Project: Trip and Dwell Analysis Using GPS Data and Google Open Buildings Dataset
+
+Dataset: Raw dataset of GPS for devices movement in Delhi NCR. [Click here](https://drive.google.com/drive/folders/107VIaocC--AyQ104yGqrOT8mFuB6LDL3)
 ## Overview
 This project analyzes GPS mobility data to detect trips and dwell events while linking movement patterns to specific buildings using the Google Open Buildings dataset.It enables better urban mobility insights, transportation planning, and location-based analytics.
 
