@@ -4,8 +4,9 @@ This project analyzes GPS mobility data to detect trips and dwell events while l
 
 ## Steps in the Analysis
 ### 1️⃣ Data Preprocessing
->> Load and clean raw GPS location data.
->> Ensure consistency in coordinate reference systems (CRS) for accurate spatial analysis.
+Load and clean raw GPS location data.
+
+Ensure consistency in coordinate reference systems (CRS) for accurate spatial analysis.
 
 ### 2️⃣ Data Analysis & Visualization
 Plot GPS trajectories on an interactive map to visualize movement.
