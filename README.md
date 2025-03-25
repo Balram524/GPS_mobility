@@ -2,13 +2,10 @@
 ## Overview
 This project analyzes GPS mobility data to detect trips and dwell events while linking movement patterns to specific buildings using the Google Open Buildings dataset.It enables better urban mobility insights, transportation planning, and location-based analytics.
 
-Steps in the Analysis
-1️⃣ Data Preprocessing
-Load and clean raw GPS location data.
-
-Ensure consistency in coordinate reference systems (CRS) for accurate spatial analysis.
-
-Handle missing or noisy data points.
+##Steps in the Analysis
+### 1️⃣ Data Preprocessing
+>> Load and clean raw GPS location data.
+>> Ensure consistency in coordinate reference systems (CRS) for accurate spatial analysis.
 
 2️⃣ Data Analysis & Visualization
 Plot GPS trajectories on an interactive map to visualize movement.
